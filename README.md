@@ -30,6 +30,8 @@ Enjoy coding with the futuristic and visually striking aesthetics of the "Cyberp
 
 ![Cyberpunk 2077](https://github.com/Takk8IS/cyberpunk-2077-theme-for-zed/blob/main/images/screenshot-08.png?raw=true)
 
+![Cyberpunk 2077](https://github.com/Takk8IS/cyberpunk-2077-theme-for-zed/blob/main/images/screenshot-09.png?raw=true)
+
 ```
 USER: MORE THEMES COMING SOON?
 RESPONSE:
